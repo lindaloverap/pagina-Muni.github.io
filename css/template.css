@@ -1,0 +1,544 @@
+body{
+margin: 0 auto;
+/*background-color:#fff;*/
+/*background-image:url(../images/arbolfon.gif);*/
+}
+
+
+#main{
+	/*padding-left:10px;
+	padding-right:50px;*/
+	
+margin: auto;
+width:1000px;
+/*background-color:#edefe6;*/
+/*border-top: 0px solid #e6e4db; */
+/*border-bottom:0px solid #e6e4db; */
+/*border-left:1.5px solid #e6e4db; */
+/*border-right: 1.5px solid #e6e4db;*/
+}
+
+#main1{
+	padding-left:10px;
+	padding-right:30px;
+margin: auto;
+width:980px;
+/*background-color:#9C0;
+/*border-top: 0px solid #FFFFFF; */
+/*border-bottom:0px solid #FFFFFF;*/ 
+/*border-left:1.5px solid #FFFFFF; */
+/*border-right: 1.5px solid #FFFFFF;*/
+}
+
+#main2{
+	padding-left:10px;
+	padding-right:10px;
+margin: auto;
+width:980px;
+/*background-color:#edefe6;
+border-top: 0px solid #e6e4db; 
+border-bottom:0px solid #e6e4db; 
+border-left:1.5px solid #e6e4db; 
+border-right: 1.5px solid #e6e4db;*/
+}
+
+
+#cuerpo {
+	/*position: relative;*/
+	background-color:#FFFFFF;
+	/*margin: 0 auto;*/
+	/*clear: both;*/
+	width: 100%;
+
+}
+
+tbody {
+	width:1000px;
+	
+	}
+
+
+
+
+#programa {
+position:absolute;
+top:201px;
+}
+/*#header { 
+background:#156ca0 url(../images/header-bg.png) center top repeat-x; 
+border-top:5px solid #1b3b4e; }	*/
+
+#header { 
+left: 0px; 
+top: 0px; 
+width: 100%; 
+height: 50px; 
+/*background: #289925; */
+margin:auto;
+z-index: 2;
+
+background:#0175C6 url(../images/header-bg.png) center top repeat-x;
+background-size: cover;
+} 
+
+#header_main { 
+left: 0px; 
+top: 0px; 
+width: 1000px; 
+height: 50px;
+position:relative;
+/*background: #289925; */
+
+margin:auto;
+z-index: 2;
+background-image:url(../images/header-bg.png)no-repeat center center fixed;
+} 
+
+#menu { 
+left: 0px; 
+top: 0px; 
+width: 1000px; 
+height: 62px; 
+/*background: #289925; */
+
+margin:auto;
+z-index: 2;
+background-image:url(../images/header-bg.png)no-repeat center center fixed;
+} 
+
+
+#footer_main1 { 
+left: 0px; 
+top: 0px; 
+width: 100%; 
+height: 235px; 
+/*background: #289925; */
+background: #0175C6; 
+margin:auto;
+z-index: 2;
+} 
+
+#titulo { 
+left: 0px; 
+top: 20px; 
+width: 800px; 
+height: 50px; 
+margin: 30px 0 0 0;
+} 
+.tituloc {color: #fff; font-family: Century Gothic; font-size: 40px;text-shadow: 0.05em 0.05em #545454;}
+.titulo {color: #fff; font-family: Century Gothic; font-size: 40px;}
+.titulo1 {color: #fff; font-family: Century Gothic; font-size: 20px;}
+.titulo2 {color: #FFFFFF; font-family: Century Gothic; font-size: 12px;}
+.titulo3 {color: #545454; font-family: Arial; font-size: 26px;}
+.titulo4 {color: #015d3a; font-family: Arial; font-size: 16px;}
+.titulo5 {color: #015d3a; font-family: Arial; font-size: 16px;}
+.titulo6 {color: #ffffff; font-family: Century Gothic; font-size: 25px;}
+.titulo7 {color: #545454; font-family: Century Gothic; font-size: 24px; background-color:#dad5d5;}
+.titulo8 {color: #015d3a; font-family: Century Gothic; font-size: 24px;}
+
+.titulo9 {color:#666; font-family: Arial; font-size: 13px;}
+#logo { right:850px; top: 20px; width: 114px; height: 123px; } 
+
+
+.style0 {color: #333333; font-family: Century Gothic; font-size: 12px; }
+.style1 {color: #e38013; font-family: Century Gothic; font-size: 14px;}
+.style2 {color: #545454; font-family: Century Gothic; font-size: 16px;}
+.style3 {color: #fff; font-family: Century Gothic; font-size: 13px; background-color:#0175C6;}
+.style4 {color: #545454; font-family: Century Gothic; font-size: 12px;}
+.style5 {color: #fff; font-family: Century Gothic; font-size: 18px;}
+.style6 {color: #e38013; font-family: Century Gothic; font-size: 14px;}
+.style7 {color: #283a06; font-family: Century Gothic; font-size: 10px;}
+
+.style8 {color: #545454; font-family:Arial; font-size:10px;}
+
+.borde_bottom{ border-bottom: 1px solid #e6e4db; }
+.borde_table{ border-top: 1px solid #e6e4db; border-bottom:1px solid #e6e4db; border-left:1px solid #e6e4db; border-right: 1px solid #e6e4db; }
+#cabecera { 
+left: 0px; 
+top: 0px; 
+width: 1000px; 
+height: 390px; 
+z-index: 1;
+margin:auto;
+background-color:#ffffff;
+border-top: 1px solid #e6e4db; 
+border-bottom:0px solid #e6e4db; 
+border-left:1.5px solid #e6e4db; 
+border-right: 1.5px solid #e6e4db;
+} 
+
+#cabecera1 { 
+left: 0px; 
+top: 0px; 
+width: 1000px; 
+height: 290px; 
+
+margin:auto;
+background-color:#ffffff;
+border-top: 1px solid #e6e4db; 
+border-bottom:0px solid #e6e4db; 
+border-left:1.5px solid #e6e4db; 
+border-right: 1.5px solid #e6e4db;
+z-index: 1;
+} 
+
+
+#footer_main{
+	/*background-color:#289925; */
+	background: #0175C6 url(../images/header-bg.png) center top repeat-x;
+	height: auto;
+	bottom: 0px;
+	width: auto;
+	clear: none;
+	float: none;
+	position: relative;
+	-webkit-transition: all;
+	-moz-transition: all;
+	-ms-transition: all;
+	-o-transition: all;
+	transition: all;
+} 
+
+#seccion { 
+left: 0px; 
+top: 0px; 
+width: 1000px; 
+height: 15px; 
+margin:auto;
+} 
+
+a.link_titulo:link
+{
+	color: #e38013;
+	font-size: 22px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo:visited
+{
+	color: #e38013;
+	font-size: 22px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo:hover
+{
+	color: #545454;
+	font-size: 22px;
+	text-decoration: underline;
+	font-family: Century Gothic;
+}
+
+a.link_titulo:active
+{
+	color: #e38013;
+	font-size: 22px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo1:link
+{
+	color: #015d3a;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo1:visited
+{
+	color: #015d3a;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo1:hover
+{
+	color: #e38013;
+	font-size: 14px;
+	text-decoration: underline;
+	font-family: Century Gothic;
+}
+
+a.link_titulo1:active
+{
+	color: #015d3a;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo2:link
+{
+	color: #545454;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo2:visited
+{
+	color: #545454;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo2:hover
+{
+	color: #e38013;
+	font-size: 16px;
+	text-decoration: underline;
+	font-family: Century Gothic;
+}
+
+a.link_titulo2:active
+{
+	color: #545454;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo3:link
+{
+	color: #015d3a;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Arial;
+}
+
+a.link_titulo3:visited
+{
+	color: #015d3a;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Arial;
+}
+
+a.link_titulo3:hover
+{
+	color: #e38013;
+	font-size: 16px;
+	text-decoration: underline;
+	font-family: Arial;
+}
+
+a.link_titulo3:active
+{
+	color: #015d3a;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Arial;
+}
+
+a.link_titulo4:link
+{
+	color: #283a06;
+	font-size: 10px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo4:visited
+{
+	color: #283a06;
+	font-size: 10px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo4:hover
+{
+	color: #c57a07;
+	font-size: 10px;
+	text-decoration: underline;
+	font-family: Century Gothic;
+}
+
+a.link_titulo4:active
+{
+	color: #283a06;
+	font-size: 10px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo5:link
+{
+	color: #fff;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo5:visited
+{
+	color: #fff;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo5:hover
+{
+	color: #c57a07;
+	font-size: 16px;
+	text-decoration: underline;
+	font-family: Century Gothic;
+}
+
+a.link_titulo5:active
+{
+	color: #fff;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+
+a.link_titulo6:link
+{
+	color: #545454;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo6:visited
+{
+	color: #545454;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo6:hover
+{
+	color: #c57a07;
+	font-size: 18px;
+	text-decoration: underline;
+	font-family: Century Gothic;
+}
+
+a.link_titulo6:active
+{
+	color: #545454;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo7:link
+{
+	color: #e38013;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo7:visited
+{
+	color: #e38013;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.link_titulo7:hover
+{
+	color: #545454;
+	font-size: 16px;
+	text-decoration: underline;
+	font-family: Century Gothic;
+}
+
+a.link_titulo7:active
+{
+	color: #e38013;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Century Gothic;
+}
+
+a.lightbox:link
+{
+	color: #fff;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Century Gothic;
+	background-color:#545454;
+	
+}
+
+a.lightbox:visited
+{
+	color: #fff;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Century Gothic;
+	background-color:#545454;
+}
+
+a.lightbox:hover
+{
+	color: #fff;
+	font-size: 16px;
+	/*text-decoration: underline;*/
+	font-family: Century Gothic;
+	background-color:#289925;
+}
+
+a.lightbox:active
+{
+	color: #fff;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Century Gothic;
+	background-color:#545454;
+}
+
+a.b_trans:link
+{
+	color: #e38013;
+	font-size: 22px;
+	text-decoration: none;
+	font-family: Century Gothic;
+	background-image:url(../images/bt_gfotos.png);
+}
+
+a.b_trans:visited
+{
+	color: #e38013;
+	font-size: 22px;
+	text-decoration: none;
+	font-family: Century Gothic;
+	background-image:url(../images/bt_gfotos.png);
+}
+
+a.b_trans:hover
+{
+	color: #545454;
+	font-size: 22px;
+	text-decoration: underline;
+	font-family: Century Gothic;
+	background-image:url(../images/bt_gfotos1.png);
+}
+
+a.b_trans:active
+{
+	color: #e38013;
+	font-size: 22px;
+	text-decoration: none;
+	font-family: Century Gothic;
+	background-image:url(../images/bt_gfotos.png);
+}
+
+.caja {
+	webkit-box-shadow: -5px 2px 66px -5px rgba(79,78,79,0.34);
+moz-box-shadow: -5px 2px 66px -5px rgba(79,78,79,0.34);
+box-shadow: -5px 2px 66px -5px rgba(79,78,79,0.34);
+	}
